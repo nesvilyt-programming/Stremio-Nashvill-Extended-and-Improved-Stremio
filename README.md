@@ -7,13 +7,20 @@
   $\color{red}{\text{Extended}}$ and $\color{blue}{\text{Improved}}$ Stremio
 </h1>
 
-  <p align="center">
+ <p align="center">
   <img src="https://img.shields.io/badge/PLATFORM-WINDOWS-0078d4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Only" style="vertical-align: middle;">
+</p>
 
-______________________________________________________________________________________________________________________________
-    
-  <img width="128" height="50" alt="Donation Goal" src="https://github.com/user-attachments/assets/1f79db14-7d14-4c57-ab5c-fac5099c03c4" style="vertical-align: middle;">
-  <span style="vertical-align: middle; margin-left: 10px;">Only Users Who Help With Donations. Goal is 100$  (Now: 12.49$)</span>
+<p align="center">
+</p>
+
+<p align="center">
+  <img width="128" height="50" alt="Donation Goal" src="https://github.com/user-attachments/assets/1f79db14-7d14-4c57-ab5c-fac5099c03c4" style="vertical-align: middle;"><br>
+  <font size="4">
+    Only Users Who Help With Donations. Goal is 100$ (Now: 12.49$)
+    <br><br>
+    If you are interesting for this ➡️ e-mail: $\Large \color{red}{\textbf{NENAD89posao@GMAIL.COM}}$
+  </font>
 </p>
   
 </div>
