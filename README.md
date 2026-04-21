@@ -2,12 +2,15 @@
   <img width="256" height="256" alt="1772406587743-5a9e813a-e671-41da-93a2-0e43ba0d4861" src="https://github.com/user-attachments/assets/144b2b45-edfa-4838-9066-b3c873254dfc" />
 
 
-  <h1>Stremio Nashville</h1>
+<h1 align="center">
+  <strong>Stremio Nashville</strong><br>
+  $\color{red}{\text{Extended}}$ and $\color{blue}{\text{Improved}}$ Stremio
+</h1>
 
   <p align="center">
   <img src="https://img.shields.io/badge/PLATFORM-WINDOWS-0078d4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Only" style="vertical-align: middle;">
   <img width="128" height="50" alt="Donation Goal" src="https://github.com/user-attachments/assets/1f79db14-7d14-4c57-ab5c-fac5099c03c4" style="vertical-align: middle;">
-  <span style="vertical-align: middle; margin-left: 10px;">Only Users Who Help With Donations. Goal is 100$</span>
+  <span style="vertical-align: middle; margin-left: 10px;">Only Users Who Help With Donations. Goal is 100$  (Now: 12.49$)</span>
 </p>
   
 </div>
